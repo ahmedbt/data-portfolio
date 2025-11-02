@@ -5,6 +5,6 @@ The goal of this project is to explore and analyze the hospital management data,
 
 
 # Content of each column
-![Column content](/assets/table.png)
+![Column content](assets/table.png)
 
 # Tools used
