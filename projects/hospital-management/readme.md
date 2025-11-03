@@ -42,7 +42,7 @@ Using MS Excel, interactive dashboards were created to visualize the findings.
 
 
 
-### Distribution of cost by departments
+#### Distribution of cost by departments
 
 
 
