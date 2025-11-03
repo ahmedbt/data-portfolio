@@ -42,10 +42,10 @@ Using MS Excel, interactive dashboards were created to visualize the findings.
 
 
 
-#### Distribution of cost by departments
+### Distribution of cost by departments
 **Question:** Which department is the most expensive?
 
-![Cost average](assets/1.avg_of_cost.png)
+![Department Cost average](assets/1.avg_of_cost.png)
 
 **Observation:**
 - Average cost of teratment in pediatrics is 2650. 2800 in oncology, 2900 in dermatology.
@@ -55,14 +55,89 @@ Using MS Excel, interactive dashboards were created to visualize the findings.
 - Pricing standardization may be lacking.
 
 
+### Distribution of cost by treatments
+**Question:** Which treatment type is the most expensive?
+
+![Treatment Cost average](assets/3.treatmentType_avg_cost.png)
+
+**Observation:**
+- Everything is pretty much standardized around 2500, just the MRI is above 3000.
+
+**Insight:**
+- Expensive MRI teratment pulls the total mean upward.
+
+
+### Distribution of appointments by status, treatment and weekday
+**Question:** When patients don't show at appointments mostly?
+
+![Treatment No show](assets/4.noShow_treatment.png)
+![Weekday No show](assets/5.noShow_weekday.png)
+
+**Observation:**
+- Only ECG and chemotherapy have less than 25% of no-show appointments.
+
+**Insight:**
+- X-ray an MRI have the biggest negative difference between no-show and completed appointments.
+- Sunday and Wednesday are days of week when patients don't show the most.
+
+
+### Staff experience
+**Question:** Is there a department where there is no senior doctors?
+
+![Experience](assets/6.experience_department.png)
+
+**Observation:**
+- Pediatrics department is perfectly distributed.
+- Oncology have juniors only.
+- Dermatology doesn't have seniors above 20 years of experience
+
+**Insight:**
+- Oncology department is at risk because of lack of experience.
+
+
+### Hospital branches popularity
+**Question:** Which hospital branch has most visits?
+
+![Branch visits](assets/8.visits_by_branch.png)
+
+**Observation:**
+- Central hospital more than 80 appointments in 2023.
+- Eastside clinic around 60.
+- Westside clinic around 55.
+
+**Insight:**
+- Central hospital is overloaded.
+- Westside clinic is underutilized.
+
+
+### Patient demographics
+**Question:** Is there a department where some gender dominates?
+
+![Gender](assets/9.gender_by_department.png)
+
+**Observation:**
+- Pediatrics and dermatology around 50% of both genders.
+- 60% of female patients in oncology department.
+
+**Insight:**
+- Pediatrics and dermatology have normally distributed genders.
+- Women dominates in oncology department.
 
 
 
+### Insurance providers
+**Question:** What insurance provider brings us the most of revenue?
 
+![Insurance provider](assets/10.provider_by_cost.png)
 
+**Observation:**
+- 250k of treatment cost is from Medcare Plus.
+- Just 50k of cost by HealthIndia.
 
-
-
+**Insight:**
+- Medcare Plus dominates.
+- Pulse Secure and WellnessCorp are in average.
+- HealthIndia is extremely low.
 
 
 
