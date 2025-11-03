@@ -55,6 +55,7 @@ Using MS Excel, interactive dashboards were created to visualize the findings.
 - Pricing standardization may be lacking.
 
 
+
 ### Distribution of cost by treatments
 **Question:** Which treatment type is the most expensive?
 
@@ -65,6 +66,7 @@ Using MS Excel, interactive dashboards were created to visualize the findings.
 
 **Insight:**
 - Expensive MRI teratment pulls the total mean upward.
+
 
 
 ### Distribution of appointments by status, treatment and weekday
@@ -81,6 +83,7 @@ Using MS Excel, interactive dashboards were created to visualize the findings.
 - Sunday and Wednesday are days of week when patients don't show the most.
 
 
+
 ### Staff experience
 **Question:** Is there a department where there is no senior doctors?
 
@@ -93,6 +96,7 @@ Using MS Excel, interactive dashboards were created to visualize the findings.
 
 **Insight:**
 - Oncology department is at risk because of lack of experience.
+
 
 
 ### Hospital branches popularity
@@ -110,6 +114,7 @@ Using MS Excel, interactive dashboards were created to visualize the findings.
 - Westside clinic is underutilized.
 
 
+
 ### Patient demographics
 **Question:** Is there a department where some gender dominates?
 
@@ -122,6 +127,7 @@ Using MS Excel, interactive dashboards were created to visualize the findings.
 **Insight:**
 - Pediatrics and dermatology have normally distributed genders.
 - Women dominates in oncology department.
+
 
 
 
@@ -142,6 +148,30 @@ Using MS Excel, interactive dashboards were created to visualize the findings.
 
 
 
+## IV. Recommendations
+- **Implement tiered service packages** (eg. basic, standard, premium) to balance affordability and profitability.
+- Build a **cost prediction model** to detect inneficiencies or overbilling.
+- When the no-show rate is too large **implement:**
+    - **SMS reminders** or automated confirmations
+    - **Penalties** for repeat no-shows
+    - Predictive analytics to **flag likely no-shows** (based on history, demographics, day of week etc.)
+- Schedule **mentoring** or **second-opinion review** processes in junior-heavy departments.
+- For **experience doctors**, emphasize **high-value** or **complex procedures** where experience adds the most value.
+- **Increase staffing** where hospital branch is **overloaded**.
+- **More marketing or service diversification** where branch is **underutilized**.
+- **Target health campaign** of breast cancer screening for women.
+- **Negotiate better reimbursement** contracts with insurance provider that dominates.
+
+
+
+## V. Limitations
+**- Dataset scope**
+  The dataset only includes data in 2023 and may not reflect the most recent trends.
+**- Viewership Data Not Included** 
+  The dataset doesn't include patient metrics such as patient wwait time or hospital stay time which are important KPI metrics in healthcare.
+
+
+## VI. Dashboard
 
 
 
