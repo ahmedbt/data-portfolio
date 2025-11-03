@@ -165,9 +165,9 @@ Using MS Excel, interactive dashboards were created to visualize the findings.
 
 
 ## V. Limitations
-**- Dataset scope**
+- **Dataset scope**
   The dataset only includes data in 2023 and may not reflect the most recent trends.
-**- Viewership Data Not Included** 
+- **Viewership Data Not Included** 
   The dataset doesn't include patient metrics such as patient wwait time or hospital stay time which are important KPI metrics in healthcare.
 
 
