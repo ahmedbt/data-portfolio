@@ -43,7 +43,9 @@ Using MS Excel, interactive dashboards were created to visualize the findings.
 
 
 #### Distribution of cost by departments
+**Question**: Which department is the most expensive?
 
+![Cost average](assets/1.avg_of_cost.png)
 
 
 
