@@ -43,10 +43,16 @@ Using MS Excel, interactive dashboards were created to visualize the findings.
 
 
 #### Distribution of cost by departments
-**Question**: Which department is the most expensive?
+**Question:** Which department is the most expensive?
 
 ![Cost average](assets/1.avg_of_cost.png)
 
+**Observation:**
+- Average cost of teratment in pediatrics is 2650. 2800 in oncology, 2900 in dermatology.
+
+**Insight:**
+- Dermatology drives a majority of revenue.
+- Pricing standardization may be lacking.
 
 
 
