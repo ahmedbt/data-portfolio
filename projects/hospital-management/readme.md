@@ -172,7 +172,7 @@ Using MS Excel, interactive dashboards were created to visualize the findings.
 
 
 ## VI. Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/DASHBOARD.png)
 
 
 
